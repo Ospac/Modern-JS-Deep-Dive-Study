@@ -113,7 +113,8 @@ obj.foo();
 - 주의할 점은 메서드를 소유한 객체가 아니라, 메서드를 호출한 객체에 바인딩된다는 것
 - 메서드는 주소값이 복사 가능한 객체기 때문에, 다른 객체의 메서드로 복사될 수 있다.
 
-그림 22-2
+<img width="874" height="364" alt="22-2" src="https://github.com/user-attachments/assets/e039d827-2afa-4467-994b-047518e37725" />
+
 
 ```js
 const anotherPerson = {
