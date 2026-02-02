@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "bbbfa03cf21e9a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5efec8b183990cc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51b3dcd3b07dfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40장-41장/40_이벤트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "40_이벤트"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7abd4acbbedec1be",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf8cade8d04a497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb9cabeeec5fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "33f906416ecff957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "0a1372a9d752d055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fed017a791313e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "43bd16976b76edb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401fe666a64b13e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "13장~15장 + 23장/13_스코프.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "13_스코프 의 백링크"
+            }
+          },
+          {
+            "id": "2000d1e9cef28e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13장~15장 + 23장/13_스코프.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "13_스코프 의 나가는 링크"
+            }
+          },
+          {
+            "id": "b442b2e2a662422b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "cd1f86f9dfd9d1a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "959c715fd2f21b71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "13장~15장 + 23장/13_스코프.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "13_스코프 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "f51b3dcd3b07dfa5",
+  "lastOpenFiles": [
+    "21장-22장, 24장/22_this.md",
+    "40장-41장/40_이벤트.md",
+    "25장-26장/26_ES6 함수의 추가 기능.md",
+    "[[22_this]].md",
+    "애프터 코드잇/상태 관리_251127_권수형.pdf",
+    "화살표.md",
+    "[[22_this.md",
+    "애프터 코드잇/선언적 프로그래밍_251204_권수형.pdf",
+    "13장~15장 + 23장/13_스코프.md",
+    "09장~12장/12_함수.md",
+    "13장~15장 + 23장",
+    "04장~08장/04_변수.md"
+  ]
+}
