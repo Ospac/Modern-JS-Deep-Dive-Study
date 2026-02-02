@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13장~15장 + 23장/13_스코프.md",
+                "file": "40장-41장/40_이벤트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "13_스코프 의 개요"
+              "title": "40_이벤트 의 개요"
             }
           },
           {
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bb9cabeeec5fc6f",
+  "active": "3797fec2817ffa95",
   "lastOpenFiles": [
     "21장-22장, 24장/22_this.md",
     "40장-41장/40_이벤트.md",
