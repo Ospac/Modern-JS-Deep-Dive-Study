@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "13_스코프 의 개요"
             }
+          },
+          {
+            "id": "3797fec2817ffa95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +190,12 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f51b3dcd3b07dfa5",
+  "active": "8bb9cabeeec5fc6f",
   "lastOpenFiles": [
     "21장-22장, 24장/22_this.md",
     "40장-41장/40_이벤트.md",
