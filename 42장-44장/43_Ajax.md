@@ -6,11 +6,13 @@ Ajax<sup>Asynchronous Javascript and XML</sup>란 자바스크립트를 사용�
 - 웹페이지 변경에 필요한 데이터만 비동기 방식으로 전송 받아, 필요한 부분만 한정적으로 다시 렌더링하는 방식을 사용한다.
 	- 비동기 방식이라 블로킹이 없다.
 	- 일부분만 렌더링하기 때문에 페이지 전체가 깜박이는 현상이 없다.
-그림 43-2
+<img width="511" height="380" alt="43-2" src="https://github.com/user-attachments/assets/0bc7a3bb-8ac3-4abf-9fbc-ccb0e42027ca" />
 
 전통적인 웹페이지들은 완전한 HTML을 서버로부터 받아 페이지 전체를 처음부터 다시 렌더링하는 방식으로 동작했다.
 
-그림 43-1
+<img width="576" height="492" alt="43-1" src="https://github.com/user-attachments/assets/6a741162-9b9c-44b5-a5f3-fb883999f5a8" />
+
+
 - 변경할 필요가 없는 부분까지 포함된 완전한 HTML을 받기 때문에 불 필요한 데이터 통신 발생
 - 브라우저도 변경할 필요가 없는 부분까지 처음부터 다시 렌더링한다.
 - 클라이언트-서버 통신이 동기 방식으로 동작하기 때문에, 다음 처리가 블로킹된다.
@@ -198,8 +200,6 @@ xhr.send(JSON.stringfy({id:1, content:'html', completed: false}));
 	- 페이로드로 전달한 인수는 무시되고 몸체<sup>request body</sup>는 `null`로 설정된다.
 - POST 메서드의 경우 데이터(페이로드)를 몸체<sup>request body</sup>에 담아 전송한다.  
     페이로드가 객체인 경우 반드시 `JSON.stringfy` 메서드를 사용하여 직렬화한 다음 전달해야 한다.
-
-그림 43-3
 
 ```js
 // HTTP 요청 헤더 설정
