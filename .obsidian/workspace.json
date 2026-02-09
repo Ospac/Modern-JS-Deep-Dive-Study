@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40장-41장/41장 타이머.md",
+                "file": "42장-44장/44_REST API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "41장 타이머"
+              "title": "44_REST API"
+            }
+          },
+          {
+            "id": "80db37483c919699",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.7"
             }
           }
         ]
@@ -198,8 +210,13 @@
   },
   "active": "16c140d06dc1398f",
   "lastOpenFiles": [
+    "42장-44장/43_Ajax.md",
+    "42장-44장/44_REST API.md",
+    "42장-44장/42_비동기 프로그래밍.md",
     "40장-41장/40_이벤트.md",
-    "40장-41장/41장 타이머.md",
+    "40장-41장/41_타이머.md",
+    "42장-44장/무제",
+    "42장-44장",
     "21장-22장, 24장/22_this.md",
     "25장-26장/26_ES6 함수의 추가 기능.md",
     "[[22_this]].md",
